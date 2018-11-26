@@ -2679,8 +2679,12 @@ fieldset[disabled] .form-control:hover {
 .navbar .navbar-nav {
   margin-top: 30px;
   position: relative;
-  right: -140px;
+  right: -280px;
 } 
+
+.navbar .navbar-nav li{
+    margin-right: 10px;
+}
 
 .navbar .navbar-nav li a {
   text-transform: uppercase;
